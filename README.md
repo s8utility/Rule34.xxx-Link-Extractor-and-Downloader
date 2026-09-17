@@ -59,7 +59,7 @@ Once the scan is complete, copy the extracted URLs from the extension.
 
 Open the S8Utility R34 Image & Video Downloader:
 
-**https://s8utility.com/r34-downloader/**
+**https://s8utility.com/tools/rule34-xxx-downloader/**
 
 Paste the URLs into the input box and click:
 
@@ -213,7 +213,7 @@ Web-based URL converter used to:
 
 **S8Utility R34 Image & Video Downloader**
 
-https://s8utility.com/r34-downloader/
+https://s8utility.com/tools/rule34-xxx-downloader/
 
 ---
 
